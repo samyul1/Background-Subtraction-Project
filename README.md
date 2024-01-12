@@ -2,6 +2,7 @@
 Implementing Background Subtraction in a dynamic dataset for a street road project is to accurately detect and extract foreground objects or entities in an street images, thereby facilitating robust and real-time monitoring of the street environment.
 
 Objective
+
 Import Libraries and Define Auxiliary Functions
 
 Dynamic Background Modeling
